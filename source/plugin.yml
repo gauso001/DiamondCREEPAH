@@ -1,0 +1,15 @@
+name: DiamondCREEPAH
+main: to.us.diamondcraft.DiamondCREEPAH
+version: 1.0
+
+description: Prevent non-player entities from modifying blocks!
+author: gauso001
+website: http://www.diamondcraft.us.to/
+
+database: false
+
+commands:
+  diamondcreepah:
+    description: desplays the help
+    usage: |
+           DiamondCREEPAH V1.0 by gauso001    This awesome drag-and-drop plugin prevents non-player entities from modifying blocks!
